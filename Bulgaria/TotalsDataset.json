@@ -1,1 +1,1 @@
-{"country":"Bulgaria","infected":531,"cured":37,"fatal":20,"timestamp":"2020-04-06 00:00:02"}
+{"country_id":1,"infected":522,"cured":37,"fatal":18,"men":299,"women":223,"hospitalized":192,"intensive_care":26,"medical_staff":23,"timestamp":"2020-04-06 08:30:20"}
