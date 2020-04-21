@@ -1,1 +1,1 @@
-{"id":103,"country_id":1,"infected":929,"cured":167,"fatal":43,"men":489,"women":440,"hospitalized":268,"intensive_care":34,"medical_staff":76,"sources":null,"timestamp":"2020-04-20 20:19:42 +0300"}
+{"id":104,"infected":966,"cured":170,"fatal":44,"sources":null,"timestamp":"2020-04-21 08:15:18 +0300","men":501,"women":465,"hospitalized":268,"intensive_care":34,"country_id":1,"medical_staff":80}
